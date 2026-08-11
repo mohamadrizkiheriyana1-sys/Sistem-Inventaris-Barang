@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Inventaris",
+  "description": "Aplikasi web untuk manajemen inventaris dan pencarian barang secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
